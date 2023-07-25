@@ -1,0 +1,206 @@
+@media screen and (min-device-width:300px) and (max-device-width:450px)
+{
+ .container .main-heading h6
+  {
+ font-size:1rem;
+line-height:20px;
+  } 
+.container .row .card img
+{
+width:100%;
+height:200px;
+}
+.container .row .col-md-4
+{
+margin-top:1rem;
+}
+.header .col-md-12 .content h4
+{
+font-size:1.2rem;
+}
+.container .row .card .ultimate
+{
+font-size:1.4rem !important;
+}
+.spacing .row .content p
+{
+font-size:0.8rem !important;
+}
+  .containers h4
+    {
+       margin-bottom:-3rem;
+margin-top:4rem;
+padding-top:1rem;
+padding-bottom:1rem;
+ font-weight:bold;
+margin-left:-0rem !important;
+right:0;
+font-size:16px !important;
+color:#fff;
+background:#33cccc !important;
+width:100% !important;
+    }
+.container .card .card-img-top
+{
+ width:100%;
+height:210px !important;
+
+} 
+.container .card .card-body .MainHeadFull
+{
+font-size:1.1rem !important;
+text-align:center !important;
+margin-top:-0.0001rem !important;
+}
+.container .card .card-body .SubHead
+{
+font-size:0.8rem !important;
+text-align:left !important;
+margin-top:-0.7rem !important;
+margin-left:-1rem;
+}
+.container .card .card-body .SubHeadCenter
+{
+font-size:0.8rem !important;
+text-align:center !important;
+margin-top:-0.7rem !important;
+margin-left:-1rem;
+}
+ .container .card .card-body .MainContent
+{
+
+color:#000 !important;
+font-size:1rem !important;
+text-align:justify !important;
+line-height:25px !important;
+
+}
+ .container .card .card-body .LiHeading
+{
+color:#000 !important;
+font-size:0.9rem !important;
+text-align:left !important;
+line-height:25px !important;
+
+}
+.container .main-heading h6
+{
+  text-align: justify;
+  text-justify: inter-word;
+    color:#00008b;
+    line-height: 20px;
+    font-size: 0.8rem;
+}
+ .container .nk-heading
+{
+ top: 0; 
+    right: 0;
+    bottom: 0; 
+    left: 0;
+height:40px !important;
+margin-bottom:-2.82rem !important;
+    text-align:center;
+ background:#33cccc;
+    width:100%;
+
+}
+ .container .nk-heading a
+{
+  display: block;
+    width: 100%;
+    color: #fff !important;
+    font-size: 14px !important;
+text-transform:uppercase;
+    font-weight: bold;
+    transition: .3s;
+padding-top:0.7rem !important;
+padding:1px 4px;
+    text-decoration:none;
+
+}
+.container .nk-heading a:hover
+{
+  
+    text-decoration:none;
+
+}
+.container .slide7All .carousel-item img
+{
+    width:100%;
+    height:250px;
+}
+
+ .nk-head
+{
+ 
+top: 0; 
+    right: 0;
+    bottom: 0; 
+    margin-left:-0.00001em;
+height:40px !important;
+margin-bottom:-0rem !important;
+    text-align:center;
+ background:#33cccc;
+    width:100%;
+
+}
+ .nk-head a
+{
+ display: block;
+    width: 100%;
+    color: #fff !important;
+    font-size: 14px !important;
+text-transform:uppercase;
+    font-weight: bold;
+    transition: .3s;
+    text-decoration:none;
+margin-top:-2rem !important;
+
+}
+.nk-head a:hover
+{
+text-decoration:none;
+
+}
+
+.elevin-section-one p
+{
+font-size:1rem !important;
+}
+.container .row .slide7All
+{
+
+}
+.SlideSingle .nk-titless a {
+margin-left:9rem;
+    display: block;
+    width: 80%;
+    color: #fff !important;
+    font-size: 14px;
+text-transform:uppercase;
+    font-weight: bold;
+    transition: .3s;
+       margin-bottom:2rem;
+    text-decoration:none;
+}
+
+.SlideSingle .nk-titless 
+{
+ position: absolute;
+    top: 0; 
+    right: 0;
+    bottom: 0; 
+    left: 3%;
+width:94%;
+    padding: 6px 4px 6px 8px;
+ background-image: linear-gradient(rgba(0, 0, 0, .0), rgba(0, 0, 0, .3), rgba(0, 0, 0, .9));
+    display: flex;
+    align-items: flex-end;
+}
+.container .main-heading 
+{
+margin-top:2rem;
+ margin-bottom:2rem;
+}
+
+}
